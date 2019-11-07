@@ -1,0 +1,143 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon/icomoon.eot?e5mg0s');
+  src:  url('../fonts/icomoon/icomoon.eot?e5mg0s#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon/icomoon.ttf?e5mg0s') format('truetype'),
+    url('../fonts/icomoon/icomoon.woff?e5mg0s') format('woff'),
+    url('../fonts/icomoon/icomoon.svg?e5mg0s#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-jquery:before {
+  content: "\e904";
+}
+.icon-jquery:hover {
+  color: #0769ad;
+}
+.icon-amazonaws:before {
+  content: "\e901";
+}
+.icon-amazonaws:hover {
+  color: #ff9900;
+}
+.icon-python:before {
+  content: "\e902";
+}
+.icon-python:hover {
+  color: #3776ab;
+}
+.icon-sass:before {
+  content: "\e903";
+}
+.icon-sass:hover {
+  color: #c69;
+}
+.icon-javascript:before {
+  content: "\e900";
+}
+.icon-javascript:hover {
+  color: #f7df1e;
+}
+.icon-display:before {
+  content: "\e956";
+}
+.icon-display:hover {
+  color: #daaaad;
+}
+.icon-mobile2:before {
+  content: "\e959";
+}
+.icon-mobile2:hover {
+  color: #f64c72;
+}
+.icon-lab:before {
+  content: "\e9aa";
+}
+.icon-lab:hover {
+  color: #50a00f;
+}
+.icon-github:before {
+  content: "\eab0";
+}
+.icon-github:hover {
+  color: #6e5494;
+}
+.icon-html-five:before {
+  content: "\eae4";
+}
+.icon-html-five:hover {
+  color: #e44d26;
+}
+.icon-css3:before {
+  content: "\eae6";
+}
+.icon-css3:hover {
+  color: #264de4;
+}
+.icon-finder:before {
+  content: "\eabf";
+}
+.icon-finder:hover {
+  color: #1e76ed;
+}
+.icon-earth:before {
+  content: "\e9ca";
+}
+.icon-sports_basketball:before {
+  content: "\e905";
+}
+.icon-books:before {
+  content: "\e920";
+}
+.icon-github-square:before {
+  content: "\e907";
+}
+.icon-meetup:before {
+  content: "\e908";
+  color: #ed1c40;
+}
+.icon-linkedin:before {
+  content: "\e906";
+  color: #0077b5;
+}
+.icon-graduation:before {
+  content: "\e90b";
+}
+.icon-devices_other:before {
+  content: "\e90c";
+}
+.icon-business-card:before {
+  content: "\e90a";
+}
+.icon-user-tie:before {
+  content: "\e976";
+}
+.icon-menu:before {
+  content: "\e909";
+}
+.icon-laptop:before {
+  content: "\e957";
+}
+.icon-embed:before {
+  content: "\ea80";
+}
+.icon-arrow-down:before {
+  content: "\e90d";
+}
